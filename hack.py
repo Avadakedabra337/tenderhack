@@ -11,8 +11,7 @@ import os
 import datetime
 
 
-
-bot = telebot.TeleBot("6249887249:AAEAzjED91yc3KEzhQHi4RKl9zll86fyW2Q")
+bot = telebot.TeleBot("")
 
 def markup(par):
 
